@@ -1,0 +1,1 @@
+A test file to test main method only allows json / csv / gzip
